@@ -1,3 +1,7 @@
+<img width="1872" height="891" alt="image" src="https://github.com/user-attachments/assets/d0bd727d-6e71-4124-94fa-bcb8d5d871a4" />
+
+simple card made using basic react , will improve over time 
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
